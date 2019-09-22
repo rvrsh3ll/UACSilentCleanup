@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UACSilentCleanup", "UACSilentCleanup\UACSilentCleanup.csproj", "{4EABAC85-FB76-4A9E-8099-052E0FC0544E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EABAC85-FB76-4A9E-8099-052E0FC0544E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EABAC85-FB76-4A9E-8099-052E0FC0544E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EABAC85-FB76-4A9E-8099-052E0FC0544E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EABAC85-FB76-4A9E-8099-052E0FC0544E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {350DCD7E-95DE-47C0-9401-04C808EB4D34}
+	EndGlobalSection
+EndGlobal
